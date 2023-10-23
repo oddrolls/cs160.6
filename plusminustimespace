@@ -1,0 +1,9 @@
+TIME AND SPACE COMPLEXITY
+
+TIME - 
+The major thing with the time complexity in PlusMinus is the for loop, which loops through the size of the array. Since the for loop
+increases constantly, the time complexity of PlusMinus is O(n), since its runtime scales with the size of the input.
+
+SPACE - 
+I did not solve PlusMinus recursively because I had to dedicate all my brainpower to IceCreamParlor2, so since there are no recursive
+calls the space complexity is constant, or O(1). 
